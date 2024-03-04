@@ -1,6 +1,6 @@
 ### Sejam Bem Vindos 
 
-<br> :pushpin: Eu sou Túlio Henrique de Oliveira Marques, Dev FullStack :sunglasses: :v: </br>
+<br> :pushpin: Eu sou Túlio Henrique de Oliveira Marques, Front-end :sunglasses: :v: </br>
 <br> :computer: Estudo programação desde Agosto de 2022 </br>
 <br>  :telescope: Estou no 4º período no tecnólogo Analise de Desenvolvimento de Sistemas</br>
 <br> :rocket: Participo da comunidade  DevClub - Formação - FULLSTACK</br>
