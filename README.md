@@ -2,9 +2,9 @@
 
 <br> :pushpin: Eu sou Túlio Henrique de Oliveira Marques, Front-end :sunglasses: :v: </br>
 <br> :computer: Estudo programação desde Agosto de 2022 </br>
-<br>  :telescope: Estou no 4º período no tecnólogo Analise de Desenvolvimento de Sistemas</br>
+<br>  :telescope: Estou cursando  no tecnólogo Analise de Desenvolvimento de Sistemas</br>
 <br> :rocket: Participo da comunidade  DevClub - Formação - FULLSTACK</br>
-<br> :rocket: Novos conhecimentos que venho aprendendo no  DevClub como: APIs, Banco de dados, Node.js etc... </br>
+<br> :rocket: Novos conhecimentos que venho aprendendo no  DevClub como: APIs, Banco de dados, Node.js, React, HTML, CSS, Java Script,  </br>
 <br> 
 <br> 
 
