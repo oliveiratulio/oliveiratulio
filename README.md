@@ -2,7 +2,7 @@
 
 <br> :pushpin: Sou Túlio Oliveira, Desenvolvedor :sunglasses: :v: </br>
 <br> :computer: Estudo programação desde Agosto de 2022 </br>
-<br>  :telescope: Formado em tecnólogo Analise de Desenvolvimento de Sistemas</br>
+<br>  :telescope: Formado Analise de Desenvolvimento de Sistemas</br>
 <br> :rocket: Participo da comunidade  DevClub - Formação - FULLSTACK</br>
 <br> :rocket: Novos conhecimentos que venho aprendendo no  DevClub como: APIs, Banco de dados, Node.js, React, HTML, CSS, Java Script,  </br>
 <br> 
