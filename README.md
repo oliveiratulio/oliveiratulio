@@ -4,8 +4,6 @@
 <br> :computer: Estudo programação desde Agosto de 2022 </br>
 <br>  :telescope: Formado Analise de Desenvolvimento de Sistemas</br>
 <br> :rocket:  DevClub - Formação - FULLSTACK</br>
-<br> :rocket: Novos conhecimentos que venho aprendendo no  DevClub como: APIs, Banco de dados, Node.js, React, HTML, CSS, Java Script,  </br>
-<br> 
 <br> 
 
   ###  :rocket: Skill's :rocket:
