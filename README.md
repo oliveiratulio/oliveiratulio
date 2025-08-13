@@ -1,10 +1,8 @@
 ### Sejam Bem Vindos 
 
-<br> :pushpin: Sou Túlio Oliveira, Desenvolvedor :sunglasses: :v: </br>
-<br> :computer: Estudo programação desde Agosto de 2022 </br>
+<br> :pushpin: Desenvolvedor  :sunglasses: :v: </br>
 <br>  :telescope: Formado Analise de Desenvolvimento de Sistemas</br>
-<br> :rocket:  DevClub - Formação - FULLSTACK</br>
-<br> 
+
 
   ###  :rocket: Skill's :rocket:
 
