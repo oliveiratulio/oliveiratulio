@@ -1,6 +1,6 @@
 ### Sejam Bem Vindos 
 
-<br> :pushpin: Desenvolvedor   </br>
+<br> :pushpin: Desenvolvedor Front-end   </br>
 <br>  :telescope: Formado Analise de Desenvolvimento de Sistemas</br>
 
 
